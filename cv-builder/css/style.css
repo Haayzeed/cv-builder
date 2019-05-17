@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.social-media-top span.fa,.social-media-bottom span.fa{
+	color: white;
+	background-color: black;
+}
+.skills ul li{
+	list-style: none;
+}
+span.fa-icon{
+	color: white;
+	background-color: black;
+}
